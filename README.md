@@ -4,7 +4,8 @@
 <p><em>Desarrollador Web Fullstack <a href="https://site.elearning-total.com/courses/?com=et">UTN FRRE</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
  
-![Linkedin: Matias Antunez](https://img.shields.io/badge/-matiasantunez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-matias-ant%C3%BAnez-5bb0892a3/)
+ ![Linkedin: Matias Antunez](https://img.shields.io/badge/-matiasantunez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-matias-ant%C3%BAnez-5bb0892a3/)
+
 
 <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.instagram.com%2F%3Fhl%3Des-es?style=flat&logo=instagram&logoColor=%235F4BC6&logoSize=auto&label=Instagram&color=%23F86F2F">
 
