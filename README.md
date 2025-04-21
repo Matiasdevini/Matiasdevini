@@ -16,7 +16,7 @@
 
 ```javascript
 const Mati = {
-  pronouns: "he" | "him",
+  pronouns: "he",
   code: [Javascript, HTML, CSS, Python, PHP avanzado, MySQL avanzado, c#],
   tools: [Bootstrap, Node],
   architecture: ["microservices", "event-driven", "web development"],
